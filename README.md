@@ -11,7 +11,7 @@ I'am a **Junior** developer and I'm just starting out in programming.
 - CSS
 - JS
 
-### I also tried learning: 
+### I also tried learning
 - C++
 - Assembly
 - Go
