@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **Vldislav**. I'am from Russia.
+My name is **Vladislav**. I'am from Russia and I have 15 years old.
 
 I'am a **Junior** developer and I'm just starting out in programming.  
 
