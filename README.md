@@ -11,9 +11,9 @@ I'am a **Junior** developer and I'm just starting out in programming.
 - CSS
 - JS
 
-### I also tried learning
+### I also have some experience with
 - C++
 - Assembly
 - Go
 
-I’m currently improving my programming skills.
+Always learning and improving my coding skills.
