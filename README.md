@@ -5,7 +5,7 @@ My name is **Vladislav**. I'am from Russia and I'm **15** years old.
 I'am a **Junior** developer and I'm just starting out in programming.  
 
 ### My tech stack includes
-- C# - Unity
+- C# - **Unity**
 - Python
 - HTML
 - CSS
