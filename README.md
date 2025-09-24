@@ -16,4 +16,4 @@ I'am a **Junior** developer and I'm just starting out in programming.
 - Assembly
 - Go
 
-Always learning and working on improving my coding skills.
+Always learning and improving my coding skills.
